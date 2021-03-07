@@ -60,7 +60,7 @@ function add() {
         ".post-list"
        
     ).render(); 
-     
+    document.getElementById('answer').value=''; 
   
   }
 
